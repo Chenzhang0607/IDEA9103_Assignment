@@ -1,0 +1,60 @@
+body {
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+#gridContainer {
+    padding-bottom: 10px;
+   
+}
+
+table {
+    background-color: #a0c6ef;
+}
+
+td {
+    
+    border-radius: 3px;
+    width: 9px;
+    height: 9px;
+}
+
+td.dead {
+    background-color: transparent;
+}
+
+td.live {
+    background-color: #fde58c;
+    border-radius: 10px;
+}
+
+.grid-header {
+   background-color: #c1ccd9;
+}
+.grid-nav {
+    background-color: #c1ccd9;
+}
+.grid-svg {
+    background-color: #c1ccd9;
+}
+.grid-controls {
+    background-color: #c1ccd9;
+}
+.controls input[type="button"] {
+   
+    color: rgb(253, 253, 253);
+   
+    background-color: rgb(30, 97, 136);
+   
+    font-size: 16px;
+    
+    width: 100px;
+  
+    height: 40px;
+  
+  }
+
+  
+
+  
+  
